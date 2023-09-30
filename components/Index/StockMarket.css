@@ -1,0 +1,25 @@
+.aa
+{
+    padding: 0;
+}
+.navbar-toggler
+{
+    color: #fff;
+}
+
+li
+{
+    list-style: none;
+    margin-top: 15px;
+}
+
+@media ( max-width: 764px) {
+    .image
+    {
+       
+    display: none;
+    }   
+} 
+
+/* button hover effect */
+

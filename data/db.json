@@ -1,0 +1,20 @@
+{ "items":
+    [
+        {
+            "id":1,
+            "post":"surya",
+            "method":true
+        },
+          {
+            "id":2,
+            "post":"vijay",
+            "method":true
+        },
+          {
+            "id":3,
+            "post":"muthu",
+            "method":true
+        }
+    ]
+
+}
